@@ -25,4 +25,8 @@ Ussage:
 2) python registryData.py -e/-q {key}
 	({key} can be used as mentioned in this link "https://learn.microsoft.com/en-us/windows-hardware/drivers/install/hklm-system-currentcontrolset-enum-registry-tree")
 	
-3) 
+3) python portScanner.py 
+	{scans all the ip's}
+
+4) python revShell.py 
+	{to get reverse shell my modifying the port and IP accordingly in the script)

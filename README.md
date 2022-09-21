@@ -12,3 +12,17 @@ Project2: (revShell)
 
 Project3: (portScanner)
 	I have written this simple script which can check for IP's which are accessible in our network. 
+
+
+
+
+
+Ussage:
+
+1) python winTree.py {location} 
+	({location} can be "." for current directory or "/" for root directory and soon...)
+
+2) python registryData.py -e/-q {key}
+	({key} can be used as mentioned in this link "https://learn.microsoft.com/en-us/windows-hardware/drivers/install/hklm-system-currentcontrolset-enum-registry-tree")
+	
+3) 

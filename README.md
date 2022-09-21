@@ -1,6 +1,6 @@
 # ASSIGNMENT-SUBMISSION
 
-Due to the short time for submission I have choose to work on the following simple python tools: 
+Due to the short time for submission I have choose to work on the following simple python tools which can be used in managing/working with servers: 
 
 Project1: (registryData, winTree)
 	These 2 scripts are written for windows platform. 
